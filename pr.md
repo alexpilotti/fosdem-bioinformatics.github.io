@@ -9,6 +9,9 @@
 
 <img alt="fosdem-biotux-smaller" src="images/fosdem-biotux-smaller.png" />
 
+## BioTux in the lab
+
+<img alt="biotux-in-the-lab" src="images/BioTux_in_the_lab.png" />
 
 ## BioTux CfP with Matrix link (svg)
 
