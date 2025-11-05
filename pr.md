@@ -13,8 +13,13 @@
 
 <img alt="biotux-in-the-lab" src="images/BioTux_in_the_lab.png" />
 
+## BioTux wants you in the Bioinformatics and Computational Biology Devroom!
+
+<img alt="biotux-wants-you" src="images/uncle_biotux.png" />
+
 ## BioTux CfP with Matrix link (svg)
 
 SVGs may have font rendering issues, I recommend using Inkscape to edit the image and to create a pixel format when distributing.
 
 <img alt="fosdem-biotux-svg" src="images/biotux-fosdem.svg" />
+
